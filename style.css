@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(238, 223, 178);
+}
+
+h1 {
+    font-family: cursive;
+    font-size:xx-large;
+    font-style: oblique;
+    text-align: center;
+}
+
+button{
+    background-color: #f8e4f4;
+}
+
+
+.card{
+    position:absolute;
+    top:210px;
+    left: 220px;
+    width: 600px;
+    height: 15px;
+    font-size: x-large;
+}
+
+
